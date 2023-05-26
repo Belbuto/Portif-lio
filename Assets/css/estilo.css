@@ -1,0 +1,35 @@
+/* `xs` Estilos padrões para todas as telas */
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400&family=Playfair:wght@300&family=Roboto+Slab:wght@300;400&display=swap');
+ 
+  body{
+    font-family: 'Noto Sans JP', sans-serif;
+font-weight: 200;
+font-size: 1rem;
+
+  }
+
+
+
+/* Estilos para telas com resolução até 576 px */
+@media (max-width: 575.98px) {
+}
+
+/* Estilos para telas com resolução até 768px */
+@media (max-width: 767.98px) { 
+
+ }
+
+/* Estilos para telas com resoluçãi até  996px */
+@media (max-width: 991.98px) { 
+
+}
+
+/* `xl` applies to large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) { 
+
+ }
+
+/* Estilos para telas com resolução até 1200px*/
+@media (max-width: 1399.98px) { 
+
+ }
